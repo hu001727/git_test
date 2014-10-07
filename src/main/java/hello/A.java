@@ -29,7 +29,7 @@ public class A {
      * @since [产品/模块版本](可选)
      */
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+        System.out.println("A.main()");
 
     }
 
